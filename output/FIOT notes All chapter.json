@@ -1,0 +1,7145 @@
+{
+  "title": "FIOT Notes",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "FIOT Notes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Computer Science & Engineering (Avanthi Institute of Engineering & Technology)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "FIOT Notes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Computer Science & Engineering (Avanthi Institute of Engineering & Technology)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "JNTU HYDERABAD",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "FUNDAMENTALS OF INTERNET OF THINGS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "B.TECH/OPEN ELECTIVE/R18",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "SYLLABUS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 I",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Internet of Things, Characteristics of IoT, Physical design of IoT,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Functional  blocks  of  IoT,  Sensing,  Actuation,  Basics  of  Networking,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Communication Protocols, Sensor Networks.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 II",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Machine-to-Machine  Communications,  Difference  between  IoT  and  M2M,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Interoperability in IoT, Introduction to Arduino Programming, Integration of Sensors",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and Actuators with Arduino.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 III",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Python programming, Introduction to Raspberry Pi, Interfacing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi with basic peripherals, Implementation of IoT with Raspberry Pi.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 IV",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Implementation of IoT with Raspberry Pi, Introduction to Software defined Network",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(SDN), SDN for IoT, Data Handling and Analytics.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 V",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Cloud Computing, Sensor-Cloud, Smart Cities and Smart Homes, Connected",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Vehicles,  Smart  Grid,  Industrial  IoT,  Case  Study:  Agriculture,  Healthcare,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Activity Monitoring.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 I",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "TO",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "INTERNET",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THINGS",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(IOT)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "\u201cInternet of Things (IoT)\u201d was coined by",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Kevin Ashton in 1999, and it has",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "recently become more relevant to the practical world largely because of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the growth of mobile devices, embedded and appearing communication,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "cloud computing and data analytics.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The \u201cThing\u201d in IoT can be any device with any kind of built-in-sensors with",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the  ability  to  collect  and  transfer  data  over  a  network  without  manual",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "intervention.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The embedded technology in the object helps them to interact with internal",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "states and the external environment, which in turn helps in decisions making",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "process.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "However,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "all complete IoT systems are the same in that they represent the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "integration of four distinct components: sensors/devices, connectivity, data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "processing, and a user interface.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IoT comprises things that have unique identities and are connected to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "internet.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "By 2020 there will be a total of 50 billion devices/things connected to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "internet.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Internet of Things would be a $8.9 trillion market in 2020.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IoT is not limited to just connecting things to the internet but also allow",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "things to communicate and exchange data.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Imagine a world where billions of objects can sense, communicate and share",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "information, all interconnected over public or private Internet Protocol (IP)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "networks.  These  interconnected  objects  have  data  regularly  collected,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "analyzed and used to initiate action, providing a wealth of intelligence for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "planning, management and decision making. This is the world of the Internet",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "of Things.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "What is meant by Internet of things?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Internet of Things (IoT) describes the network of physical objects \u2014 \u201cthings\u201d\u2014",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "that are embedded with sensors, software, and other technologies for the purpose",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of connecting and exchanging data with other devices and systems over the internet.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "What is the Internet of things and why is it important?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Internet of Things can create information about the connected objects, analyze it,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and make decisions; in other words, one can tell that the Internet of Things is",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "smarter than the Internet. Security cameras, sensors, vehicles, buildings, and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "software are examples of things that can exchange data among each other.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "IoT is about transferring data without or with human intervention. It is nothing",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "about human-to-human or computer interaction as it has UIDs  (Unique",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Identifiers). Artificial Intelligence is all about making your system behave smartly",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "according to human behaviour, whereas IoT is all about the sensors of devices.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Definition:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Internet of things refers to a type of network to connect anything",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "with the Internet based on stipulated protocols through information  sensing",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "equipment\u2019s to conduct information exchange and communications in order to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "achieve smart recognitions, positioning, tracing, monitoring, and administration.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "A dynamic global network infrastructure with self-configuring capabilities based",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "on  standard  and  interoperable  communication  protocols  where  physical and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "virtual \"things\" have identities, physical attributes, and virtual",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "personalities and use intelligent interfaces, and are seamlessly integrated into the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "information network, often communicate data associated with users and their",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "environments.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The internet of things (IoT) is a computing concept that describes the idea of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "everyday physical objects being connected to the internet and being able to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "identify themselves to other devices. It has dynamic global network infrastructure",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "with  self-configuring  capabilities  based  on  standard  and  interoperable",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "communication protocols where physical and virtual \u201cthings\u201d have identities,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "physical attributes and virtual network and use intelligent interfaces.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Benefits of IoT:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Since IoT allows devices to be controlled remotely across the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "internet, thus it created opportunities to directly connect & integrate the physical",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "world to the computer-based systems using sensors and internet.  The",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "interconnection of these multiple embedded devices will be resulting in automation",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "in nearly all fields and also enabling advanced applications. This is resulting in",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "improved accuracy, efficiency and economic benefit with  reduced human",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "intervention. It encompasses technologies such as smart grids, smart homes,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "intelligent transportation and smart cities.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CHARACTERISTICS",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "There are 5 types of characteristics that are:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Dynamic & Self-Adapting.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Self-Configuring.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Interoperable Communication Protocols.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Unique Identity.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Integrated into Information Network.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Dynamic & Self Adapting:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "IoT devices and systems may have the capability",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "to dynamically adapt with the changing contexts and take actions based on their",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "operating conditions, user\u2019s context or sensed environment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Eg:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the surveillance system is adapting itself based on context and changing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "conditions.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Self Configuring:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "allowing a large number of devices to work together to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "provide certain functionality.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Inter  Operable  Communication  Protocols:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "support  a  number  of",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "interoperable communication protocols and can communicate with other devices",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "and also with infrastructure.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Unique Identity:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Each IoT device has a unique identity and a unique identifier",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "(IP address).",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Integrated into Information Network:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "that allow them to communicate and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "exchange data with other devices and systems.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "APPLICATIONS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "[OR]",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DOMAIN",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "SPECIFIC",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "IOTs",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Applications on IoT networks extract and create information from lower- level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "data by filtering, processing, categorizing, condensing and contextualizing the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "data.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Home.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Cities.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Environment.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Energy.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Retail.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Logistics.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Agriculture.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Industry.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Health & Lifestyle.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Home Automation:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Smart Lighting:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "helps in saving energy by adapting the lighting to the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "ambient conditions and switching on/off or diming the light when needed.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Smart Appliances:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "make the management easier and also provide status",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "information to the users remotely.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Intrusion Detection:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "use security cameras and sensors (PIR sensors and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "door sensors) to detect intrusion and raise alerts. Alerts can be in the form",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "of SMS or email sent to the user.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Smoke/Gas  Detectors:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Smoke  detectors  are  installed  in  homes  and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "buildings to detect smoke that is typically an early sign of fire. Alerts",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "raised by smoke detectors can be in the form of signals to a fire alarm",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "system. Gas detectors can detect the presence of harmful gases such as",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "CO, LPG etc.,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Cities:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Smart Parking:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "make the search for parking space easier and convenient for",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "drivers. Smart parking is powered by IoT systems that detect the no. of empty",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "parking  slots  and  send  information  over  internet  to  smart  application",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "backends.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Smart Lighting:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "for roads, parks and buildings can help in saving energy.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Smart Roads:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Equipped with sensors can provide information on driving",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "condition, travel time estimating and alert in case of poor driving conditions,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "traffic condition and accidents.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Structural Health Monitoring:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "uses a network of sensors to monitor the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "vibration levels in the structures such as bridges and buildings.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Surveillance:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The  video  feeds  from  surveillance  cameras  can  be",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "aggregated in cloud based scalable storage solution.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Emergency  Response:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "IoT systems  for  fire  detection,  gas  and  water",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "leakage detection can help in generating alerts and minimizing their effects",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "on the critical infrastructures.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Environment:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Weather Monitoring:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Systems collect data from a no. of sensors attached",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "and send the data to cloud-based applications and storage back ends. The",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "data collected in cloud can then be analyzed and visualized by cloud-based",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "applications.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Air Pollution Monitoring:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "System can monitor emission of harmful gases",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "(CO",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ", CO, NO, NO",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "etc.,) by factories and automobiles using gaseous and",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "meteorological sensors. The collected data can be analyzed  to  make",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "informed decisions on pollutions control approaches.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Noise  Pollution  Monitoring:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Due  to  growing  urban  development,  noise",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "levels in cities have increased and even become alarmingly high in some",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "cities.  IoT  based  noise  pollution  monitoring  systems use  a  no.  of  noise",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "monitoring systems that are deployed at different places in a city. The data on",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "noise levels from the station is collected on servers or in the cloud. The",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "collected data is then aggregated to generate noise maps.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Forest Fire Detection:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Forest fire can cause damage to natural resources,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "property and human life. Early detection of forest fire can  help  in",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "minimizing damage.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "River Flood Detection:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "River floods can cause damage to natural and human",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "resources  and  human  life.  Early  warnings  of  floods  can  be  given by",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "monitoring the water level and flow rate. IoT based river flood monitoring",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "system uses a no. of sensor nodes that monitor the water level and flow rate",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "sensors.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Energy:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Smart Grids:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "is a data communication network integrated with the electrical",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "grids that collects and analyze data captured in near-real-time about power",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "transmission, distribution and consumption. Smart grid technology provides",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "predictive information and recommendations to utilities, their suppliers, and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "their customers on how best to manage power. By using IoT based sensing",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "and measurement technologies, the health of equipment and integrity of the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "grid can be evaluated.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Renewable  Energy  Systems:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "IoT  based  systems  integrated  with  the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "transformers at the point of interconnection measure the electrical variables",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "and how much power is fed into the grid. For wind energy systems, closed-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "loop controls can be used to regulate the voltage at  point  of",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "interconnection which coordinate wind turbine outputs and provides power",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "support.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Prognostics:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "In  systems  such  as  power  grids,  real-time  information  is",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "collected using specialized electrical sensors called Phasor Measurement",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Units (PMUs) at the substations. The information received from PMUs",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "must be monitored in real-time for estimating the state of the system and for",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "predicting failures.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Retail:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Inventory Management:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "IoT systems enable remote monitoring of inventory",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "using data collected by RFID readers.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Smart Payments:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Solutions such as contact-less payments powered by",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "technologies such as Near Field Communication (NFC) and Bluetooth.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Smart Vending Machines:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Sensors in a smart vending machines monitors",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "its operations and send the data to cloud which can be used for predictive",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "maintenance.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Logistics:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Route generation & scheduling:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "IoT based system backed by cloud can",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "provide first response to the route generation queries and can be scaled up to",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "serve a large transportation network.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Fleet Tracking:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Use GPS to track locations of vehicles in real-time.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Shipment Monitoring:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "IoT based shipment monitoring systems use sensors",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "such as temp, humidity, to monitor the conditions and send data to cloud,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "where it can be analyzed to detect food spoilage.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Remote  Vehicle  Diagnostics:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Systems  use  on-board  IoT  devices  for",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "collecting data on Vehicle operations (speed, RPM etc.,) and status of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "various vehicle subsystems.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Agriculture:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Smart Irrigation:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "to determine moisture amount in soil.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Green House Control:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "to improve productivity.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Industry:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Machine diagnosis and prognosis.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Indoor Air Quality Monitoring.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Health and Lifestyle:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Health & Fitness Monitoring.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Wearable",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Electronics.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "PHYSICAL",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DESIGN",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The \"Things\" in IoT usually refers to IoT devices which have unique",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "identities  and  can  perform  remote  sensing,  actuating  and  monitoring",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "capabilities.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "IoT devices can:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Exchange data with other connected devices and applications (directly",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "or indirectly), or",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Collect data from other devices and process the data locally or",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Send the data to centralized servers or cloud-based application back-",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "ends for processing the data, or",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Perform some tasks locally and other tasks within the IoT",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "infrastructure, based on temporal and space constraints.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Things in IoT/Generic block diagram of an IoT Device:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The things in IoT refers to IoT devices which have unique identities and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "perform remote sensing, actuating and monitoring capabilities. IoT devices",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "can exchange data with other connected devices applications. It collects",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "data from other devices and process data either locally or remotely.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "An  IoT  device  may  consist  of  several  interfaces  for  connections/",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "communication to other devices, both wired and wireless. These includes:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "I/O interfaces for sensors.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Interfaces for Internet connectivity.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Memory and storage interfaces.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Audio/video interfaces.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "IoT Protocols:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Link Layer:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "802.3 \u2013 Ethernet",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "802.11 \u2013 WiFi",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "802.16 \u2013 WiMax",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "802.15.4 \u2013 LR-WPAN",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "2G/3G/4G",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Network/Internet Layer:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Transport Layer:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "TCP",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "UDP",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Application Layer:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "CoAP",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "WebSocket",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "MQTT",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "XMPP",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "DDS",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "AMQP",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Link Layer:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Protocols determine how data is physically sent over the network\u2019s",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "physical layer or medium. Local network connect to which host is attached. Hosts on",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the same link exchange data packets over the link layer",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "using link layer protocols.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Link layer determines how packets are coded and signaled by the h/w device over",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the medium to which the host is attached.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Protocols:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "802.3-Ethernet:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "IEEE802.3 is collection of wired Ethernet standards for",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the link layer. Eg: 802.3 uses co-axial cable; 802.3i uses copper twisted",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "pair connection; 802.3j uses fiber optic connection; 802.3ae uses Ethernet",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "over fiber.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "802.11-WiFi:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "IEEE802.11  is a collection  of  wireless LAN (WLAN)",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "communication standards including extensive description of link layer. Eg:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "802.11a operates in 5GHz band, 802.11b and 802.11g operates in",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "2.4GHz band, 802.11n operates in 2.4/5GHz band, 802.11ac operates in",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "5GHz band, 802.11ad operates in 60Ghzband.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "802.16 - WiMax:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "IEEE802.16 is a collection of wireless broadband standards",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "including exclusive description of link layer. WiMax provide data rates from",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "1.5 Mb/s to 1Gb/s.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "802.15.4-LR-WPAN:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "IEEE802.15.4 is a collection of standards for low",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "rate wireless personal area network (LR-WPAN). Basis for high level",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "communication protocols such as ZigBee. Provides data rate from 40kb/s",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "to250kb/s.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2G/3G/4G-Mobile Communication:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Data rates from 9.6kb/s(2G) to up",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "to100Mb/s(4G).",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Network/Internet Layer:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Responsible for sending IP datagrams from source",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "n/w to destination n/w. Performs the host addressing and packet routing. Datagrams",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "contains source and destination address.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Protocols:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "IPv4:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Internet Protocol version4 is used to identify the devices on a n/w",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "using a hierarchical addressing scheme. 32 bit address. Allows total of",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2**32addresses.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "IPv6:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Internet Protocol version6 uses 128 bit address scheme and allows",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2**128 addresses.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "6LOWPAN:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "(IPv6overLowpowerWirelessPersonalAreaNetwork) operates in",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2.4 GHz frequency range and data transfer 250 kb/s.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Transport  Layer:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Provides  end-to-end  message  transfer  capability",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "independent of the underlying n/w. Set up on connection with ACK as in TCP",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and  without  ACK  as  in  UDP.  Provides  functions  such  as  error  control,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "segmentation, flow control and congestion control.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Protocols:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "TCP:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Transmission Control Protocol used by web browsers (along with",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "HTTP and HTTPS), email (along with SMTP, FTP). Connection oriented",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and  stateless  protocol.  IP  Protocol  deals  with  sending  packets,  TCP",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ensures reliable transmission of protocols in order. Avoids n/w congestion",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and congestion collapse.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "UDP:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "User Datagram Protocol is connectionless protocol. Useful in time",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "sensitive  applications,  very  small  data  units  to  exchange.  Transaction",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "oriented and stateless protocol. Does not provide guaranteed delivery.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Application Layer:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Defines how the applications interface with lower layer",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "protocols to send data over the n/w. Enables process-to-process communication",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "using ports.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Protocols:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "HTTP:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Hyper Text Transfer Protocol that forms foundation of WWW. Follow",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "request- response model Stateless protocol.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "CoAP:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Constrained Application Protocol for machine-to-machine (M2M)",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "applications  with  constrained  devices,  constrained  environment  and",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "constrained n/w. Uses client- server architecture.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "WebSocket:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "allows  full  duplex  communication  over  a  single  socket",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "connection.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "MQTT:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Message  Queue  Telemetry  Transport  is light  weight  messaging",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "protocol based on publish-subscribe model. Uses client server architecture.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Well suited for constrained environment.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "XMPP:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Extensible  Message  and  Presence  Protocol  for  real  time",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "communication  and  streaming  XML  data  between  network  entities.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Support client-server and server-server communication.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "DDS:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Data Distribution Service is data centric middleware standards for",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "device-to-device  or  machine-to-machine  communication.  Uses  publish-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "subscribe model.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "AMQP:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Advanced Message Queuing Protocol is open application layer",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "protocol for business messaging. Supports both point-to-point and publish-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "subscribe model.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "FUNCTIONAL",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "BLOCKS",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[OR]",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "FUNCTIONAL",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "BLOCKS",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Provide the system the capabilities for identification, sensing, actuation,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "communication and management.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Device.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Communication.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Services.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Management.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Security.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Applications.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Device:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "An IoT system comprises of devices that provide sensing, actuation,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "monitoring and control functions.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Communication:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "handles the communication for IoT system.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Services:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "for device  monitoring,  device  control  services, data  publishing",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "services and services for device discovery.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Management:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Provides various functions to govern the IoT system.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Security:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Secures  IoT  system  and  priority  functions  such  as",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "authentication,  authorization,  message  and  context  integrity  and  data",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "security.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Application:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "IoT application provide an interface that the users can use to",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "control and monitor various aspects of IoT system.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "SENSING",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The main purpose of sensors is to collect data from the surrounding",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "environment. Sensors, or 'things' of the IoT system, form the front end.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "These are connected directly or indirectly to IoT networks after signal",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "conversion and processing.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Types of IoT sensors:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Temperature sensors.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Humidity sensors.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Motion sensors.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Gas sensors.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Smoke sensors.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Pressure",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "sensors.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Image sensors.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "IR sensors.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "ACTUATION",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Another type of transducer that you will encounter in many IoT systems is an",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "actuator. In simple terms, an actuator operates in the reverse direction of a sensor.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "It takes an electrical input and turns it into physical action.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "SENSING",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "VS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "ACTUATION",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Sensing  converts  physical  characteristics  into  electrical  signals.  Actuation",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "converts  electrical  signals  into  physical  characteristics.  Sensor  generated",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "electrical signals. Actuator generates heat or motion. It is placed at input port of",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "the system.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "BASICS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "NETWORKING",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Switches, routers, and wireless access points are the essential networking basics.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Through them, devices connected to your network can communicate with one",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "another and with other networks, like the Internet. Switches, routers, and wireless",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "access points perform very different functions in a network.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "COMMUNICATION",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "PROTOCOLS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "IoT Communication Models:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Request-Response",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Model.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Publish-Subscribe Model.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Push-Pull Model.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Exclusive Pair Model.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Request-Response Model:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "In which the client sends request to the server and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "the server replies to requests. Is a stateless communication  model and each",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "request-response pair is independent of others.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Publish-Subscribe  Model:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Involves  publishers,  brokers  and  consumers.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Publishers are source of data.  Publishers  send data to  the topics which  are",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "managed by the broker. Publishers are not aware of the consumers. Consumers",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "subscribe to the topics which are managed by the broker. When the broker",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "receives data for a topic from the publisher, it sends the data to all the subscribed",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "consumers.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Push-Pull Model:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "in which data producers push data to queues and consumers",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "pull data from the queues. Producers do not need to aware of the consumers. Queues",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "help in decoupling the message between the producers and consumers.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "4 Exclusive Pair:",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "is bi-directional, fully duplex communication model that uses",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "a persistent connection between the client and server. Once connection is set up it",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "remains open until the client send a request to close the connection. Is a stateful",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "communication model and server is aware of all the open connections.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "IoT Communication APIs:",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "REST based communication APIs (Request-Response Based Model).",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "WebSocket based Communication APIs (Exclusive Pair Based Model).",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "REST",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "based",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "communication",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "APIs:",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Representational",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "State",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Transfer",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "(REST) is a set of architectural principles by which we can design web services",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "and web APIs that focus on a system \u2018s resources and have resource states",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "are addressed and transferred.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The  REST  architectural  constraints:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Fig.  shows  communication  between",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "client server with REST APIs.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Client-Server:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The principle behind client-server constraint is the separation of",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "concerns. Separation allows client and server to be independently developed and",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "updated.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Stateless:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Each request from client to server must contain all the info. Necessary",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "to understand the request, and cannot take advantage of any stored context on the",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "server.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Cache-able:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Cache  constraint requires  that the  data within  a response to a",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "request be implicitly or explicitly labeled as cache-able or non-cacheable. If a",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "response is cache-able,  then  a client  cache  is  given  the  right to  reuse that",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "response data for later, equivalent requests.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Layered  System:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "constraints  the  behavior  of  components  such  that  each",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "component  cannot  see  beyond  the  immediate  layer  with  which  they  are",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "interacting.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "User Interface:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "constraint requires that the method of communication between a",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "client and a server must be uniform.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Code on Demand:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Servers can provide executable code or scripts for clients to",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "execute in their context. This constraint is the only one that is optional.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Request-Response model used by REST:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "RESTful webservice is a collection of resources which are represented by URIs.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "RESTful  web  API  has  a base  URI  (e.g:  http://example.com/api/tasks/). The",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "clients and requests to these URIs using the methods defined by the HTTP",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "protocol (e.g: GET, PUT, POST or DELETE). A RESTful web service can",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "support various internet media types.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "WebSocket  Based  Communication  APIs:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "WebSocket  APIs  allow  bi-",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "directional, full duplex communication between clients and servers. WebSocket",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "APIs follow the exclusive pair communication model.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 II",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "MACHINE-TO-MACHINE (M2M)",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "COMMUNICATIONS",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Machine-to-Machine (M2M) refers to networking of machines (or",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "devices)",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "for the purpose of remote monitoring and control and data exchange.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Term",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "which is often synonymous with IoT is Machine-to-Machine (M2M).",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "IoT and M2M are often used interchangeably.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Fig. Shows the end-to-end architecture of M2M systems comprises of",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "M2M area networks, communication networks and application foaming.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "An M2M area network comprises of machines (or M2M nodes) which",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "have  embedded  network  modules  for  sensing,  actuation  and",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "communicating various communication protocols can be used for M2M",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "LAN  such  as  ZigBee,  Bluetooth,  M-bus,  Wireless  M-Bus etc.,  These",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "protocols provide connectivity between M2M nodes within an M2M area",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "network.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "The communication network provides connectivity to remote M2M area",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "networks. The communication network provides connectivity to remote",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "M2M",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "area network. The communication network can use either wired",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "or wireless",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "network (IP based). While the M2M are networks use either",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "proprietary or non-IP based communication protocols, the communication",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "network uses IP-based network. Since non-IP based protocols are used",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "within M2M area network, the M2M nodes within one network cannot",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "communicate with nodes in an external network.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "To",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "enable the communication between remote M2M are network, M2M",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "gateways are used.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Fig. Shows a block diagram of an M2M gateway. The communication between",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "M2M nodes and the M2M gateway is based on the communication protocols",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "which are naive to the M2M are network. M2M gateway performs protocol",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "translations to enable Ip-connectivity for M2M are networks. M2M gateway acts",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "as a proxy performing  translations  from/to  native  protocols  to/from  Internet",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Protocol (IP). With an M2M gateway, each mode in an M2M area network",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "appears as a virtualized node for external M2M area networks.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "DIFFERENCE",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "BETWEEN",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "AND",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "M2M",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Communication  Protocols:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Commonly  uses  M2M  protocols  include",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "ZigBee,  Bluetooth,  ModBus,  M-Bus,  Wireless  MBustec.,  In  IoT  uses",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "HTTP, CoAP, WebSocket, MQTT, XMPP, DDS, AMQ Petc.,",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Machines  in  M2M  Vs  Things  in  IoT:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Machines  in  M2M  will  be",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "homogenous whereas Things in IoT will be heterogeneous.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Hardware  Vs  Software  Emphasis:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "the  emphasis  of  M2M  is  more  on",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "hardware with embedded modules, the emphasis of IoT is more on software.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Data Collection & Analysis:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "M2M data is collected in point solutions and",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "often in on-premises storage infrastructure. The data in IoT is collected in",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "the cloud (can be public, private or hybrid cloud).",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Applications:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "M2M  data  is  collected  in  point  solutions  and  can  be",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "accessed  by  on-premises  applications  such  as  diagnosis  applications,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "service management applications, and on- premises enterprise applications.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "IoT  data  is  collected  in  the  cloud  and  can  be  accessed  by  cloud",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "applications such as analytics applications, enterprise applications, remote",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "diagnosis and management applications, etc.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "INTEROPERABILITY",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "IN",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "What does interoperability mean?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Defining Interoperability:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Interoperability is the ability of different information",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "technology systems and software applications to communicate, to exchange data",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "accurately, effectively, and consistently, and to use the information that has been",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "exchanged.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "What is interoperability and why is it especially important in the Internet?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Foundational interoperability enables one information system to exchange data",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "with another information system. The system receiving this information does not",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "need to have to interpret the data. It will be instantly available for use.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Dimensions for Interoperability:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "The main objective of this report is not to produce",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "a  new  definition  on  interoperability  but  to  explore  the  different  roles  and",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "functionality  that  interoperability  plays  in  IoT.  There  are  many  definitions  of",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "interoperability; we try to provide a common definition that can be extracted from",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "many of those definitions (bringing from the 3",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Generation Partnership Project,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "3GPP). Interoperability is:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "\u201cthe ability of two or more systems or components to exchange data  and use",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "information\u201d",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "This definition provides many challenges on how to:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Get the information.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Exchange data, and",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Use the information in understanding it and being able to process it.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "A simple representation of interoperability can be seen as follow:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Technical  Interoperability",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "is  usually  associated  with  hardware/software",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "components, systems and platforms that enable machine-to-machine communication",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "to take place. This kind of interoperability is often centred on (communication)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "protocols and the infrastructure needed for those protocols",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "to operate.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Syntactical Interoperability",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "is usually associated with data formats. Certainly,",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "the messages transferred by communication protocols need to have a well-defined",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "syntax and encoding, even if it is only in the form of bittables. However, many",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "protocols  carry  data  or  content,  and  this  can  be  represented  using high-level",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "syntaxes such as HTML or XML",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Semantic Interoperability",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "is usually associated with the meaning of content and",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "concerns  the  human  rather  than  machine  interpretation  of  the  content.  Thus,",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "interoperability on this level means that there is a common understanding between",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "people of the meaning of the content (information) being exchanged.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Organizational Interoperability",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": ", as the name implies, is the ability of organizations",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "to effectively communicate and transfer (meaningful) data (information) even though",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "they may be using a variety of different information systems over widely different",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "infrastructures,  possibly  across  different  geographic  regions  and  cultures.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Organizational interoperability depends on successful technical, syntactical and",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "semantic interoperability.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Following the definitions and the trends on ICT sector about sensors and sensor",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "data we can add two other dimensions: Static and dynamic interoperability.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Static  interoperability",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "using  approach  of  the  well-known  OSI  overall  test",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "methodology ISO 9646 [49], where there is definition of static conformance review.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Conformance testing consists of checking whether an Implementation Under Test",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "(IUT) satisfies all static and dynamic conformance requirements. For the static",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "conformance requirements this means a reviewing process of the options (PICS)",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "delivered with the IUT. This is referred to as the static conformance review. This",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "aspect could appear easy but that represent serious challenge in the IoT field due",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "the broad range of applications.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Dynamic  interoperability:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Two  products  cannot  interoperate  if  they  do  not",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "implement the same set of options (\u201cservices\u201d). Therefore, when specifications are",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "including a broad range of options, this aspect could lead to serious interoperability",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "problem. Solutions to overcome these aspects consist of definition clearly in a clear",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "document the full list options with all conditions (e.g., defined as PICS in [49]) as",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "well as to define set of profiles. In the latter case, defining profile would help to truly",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "check interoperability between two products in the same family or from different",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "family if the feature checked belongs to the two groups. We could consider this",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "aspect as:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Interoperability:  Challenges  and  Requirements:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "The  overall  challenges  in",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "interoperability is first to stabilize the foundation of the real world data/services,",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "ensuring technical interoperability from technologies to deliver mass of information",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "and then complementary challenges are for the information",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "understood",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "processed.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Before",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "entering",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "into",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "details",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "present",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "summary",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "challenges",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "technical",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "semantic",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "interoperability in Table 1.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Table 1: IoT Technical Interoperability Challenges/Requirements",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "TO",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "ARDUINO",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "PROGRAMMING",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Arduino Programs:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "All Arduino programs must follow the following main structure:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Arduino Program \u2013 Example:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Arduino Program \u2013 Using Comments:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Creating and Using Functions:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "INTEGRATION",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "SENSORS",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "AND",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "ACTUATORS",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "WITH",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "ARDUINO",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Sensors and Actuators:",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Sensor",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "is a converter that measures a physical size and converts it to a",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "signal that can be read by an instrument, data acquisition device, or an",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Arduino.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Examples:",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "temperature sensor, pressure sensor, etc.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "An",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Actuator",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "is a kind of motor that moves or controls a mechanism or",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "system.  It  is  powered  by  an  energy  source,  typical  electric  current,",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "hydraulic fluid pressure, or air pressure, and converts this energy into",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "motion.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Examples:",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Engine, Pump, Valve, etc.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "The sensors and actuators can be either digital or analog.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Some sensors and actuators have been made for Arduino, while others need",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "to be connected in some circuit to work properly with Arduino.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Many of these come with ready-made libraries for Arduino, so they are easy to",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "use.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Examples:",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Electrical Circuit.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Blinking",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "LED.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Switch.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Potentiometer.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Temperature.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Light Sensor.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Thermistor.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "UNIT \u2013 III",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "TO",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "PYTHON",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "PROGRAMMING",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python is a general-purpose high level programming language and suitable for",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "providing a solid foundation to the reader in the area of cloud computing.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "The main characteristics of Python are:",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Multi-paradigm programming language.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python supports more than one programming paradigms including",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "object-oriented programming and structured programming.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Interpreted Language.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python is an interpreted language and does not require an explicit",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "compilation step.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "The Python interpreter executes the program source code directly,",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "statement by statement, as a processor or scripting engine does.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Interactive",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Language.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python  provides  an  interactive  mode  in  which  the  user  can  submit",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "commands at the Python prompt and interact with the interpreter directly.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python Benefits",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Python \u2013 Setup:",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Datatypes",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Every value in Python has a datatype. Since everything is an object in Python",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "programming, data types are actually classes and variables are instance",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "(object) of",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "these classes.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "There are various data types in Python. Some of the important types are listed below.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Python Numbers",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Integers, floating point numbers and complex numbers falls under Python numbers",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "category. They are defined as int, float and complex class in Python. We can use the",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "type",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "function to know which class a variable or a value belongs to and the is",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "instance",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "function to check if an object belongs to a particular class.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Integers can be of any length; it is only limited by the memory available. A floating-",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "point number is accurate up to 15 decimal places. Integer and floating points are",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "separated by decimal points. 1 is integer, 1.0 is floating",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "point number. Complex numbers are written in the form, x + yj, where x is the",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "real part and y is the imaginary part. Here are some examples.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Python List",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "List is an ordered sequence of items. It is one of the most used datatypes in Python",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "and is very flexible. All the items in a list do not need to be of the same type.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Declaring a list is pretty straight forward. Items separated by commas  are",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "enclosed within brackets [].",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": ">>> a = [1, 2.2, 'python']",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "We can use the slicing operator [ ] to extract an item or a range of items from a",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "list. Index starts form 0 in Python.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Python Tuple",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Tuple is an ordered sequence of items same as list. The only difference is that",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "tuples are immutable. Tuples once created cannot be modified. Tuples are used to",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "write-protect data and are usually faster than list as it cannot change dynamically.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "It is defined within parentheses",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "where items are separated by commas.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": ">>> t = (5,'program', 1+3j)",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Script.py",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Python Strings",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "String is sequence of Unicode characters. We can use single quotes or double quotes",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "to represent strings. Multi-line strings can be denoted using triple quotes, ''' or \"\"\".",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": ">>> s = \"This is a string\"",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": ">>> s = '''a multiline",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Like list and tuple, slicing operator [ ] can be used with string. Strings are",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "immutable.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Script.py",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "We can perform set operations like union, intersection on two sets. Set has unique",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "values. They eliminate duplicates. Since, set are unordered collection, indexing has",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "no meaning. Hence the slicing operator [] does not work. It is generally used when",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "we have a huge amount of data.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Dictionaries are optimized for retrieving data. We must know the key to retrieve",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "the value. In Python, dictionaries are defined within braces",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "with each item",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "being a pair in the form key:",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "value. Key and value can be of any type.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "We use key to retrieve the respective value. But not the other way around.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Script.py",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Python if...else Statement",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Every value in Python has a datatype. Since everything is an object in Python",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "programming, data types are actually classes and variables are instance",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "(object) of",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "these classes. Decision making is required when we want to execute a code only if",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "a certain condition is satisfied.",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "The if\u2026elif\u2026else statement is used in Python for decision making.",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Python  if  Statement",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Syntax",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "if test expression:",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "statement(s)",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Here, the program evaluates the test expression and will execute statement(s) only if",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "the text expression is True.",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "If the text expression is False, the statement(s) is not executed. In Python, the",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "body of the if statement is indicated by the indentation. Body starts with an",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "indentation and the first unindebted line marks the end. Python interprets non-",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "zero values as True. None and 0 are interpreted as False.",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Python if Statement Flowchart",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "In the above example, num > 0 is the test expression. The body of it is",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "executed only if this evaluates to True.",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "When variable num is equal to 3, test expression is true and body inside body of it",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "is executed. If variable num is equal to -1, test expression is false and",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "body inside body of it is skipped. The print() statement falls outside of the if block",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "(unindebted). Hence, it is executed regardless of the test expression.",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Python if..else Flowchart",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "The elif is short for else if. It allows us to check for multiple expressions. If the",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "condition for if is False, it checks the condition of the next elif block and so on. If",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "all the conditions are False, body of else is executed. Only one block among the",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "several if...elif...else blocks is executed according to the condition. The if block",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "can have only one else block. But it can have multiple elifblocks.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Flowchart of if...elif...else",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "When variable num is positive, Positive number is printed. If",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "num is equal to 0, Zero is printed.",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "If num is negative, Negative number is printed",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "Python Nested if statements",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "We can have a if...elif...else statement inside another if...elif...else statement. This",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "is called nesting in computer programming. Any number of these statements can",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "be nested inside one another.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Indentation is the only way to figure out the level of nesting. This can get confusing,",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "so must be avoided if we can.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Python for Loop",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "The for loop in Python is used to iterate over a sequence (list, tuple, string) or other",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "iterable objects. Iterating over a sequence is called traversal. Syntax of for Loop",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "for Val in sequence:",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Body of for",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Here, Val is the variable that takes the value of the item inside the sequence on",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "each iteration.",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Loop continues until we reach th e last item in the sequence. The body of for",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "loop is separated from the rest of the code using indentation.",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "TO",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "RASPBERRY",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "PI",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi is a low-cost, credit card-sized computer that connects to a",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "computer monitor or TV using HDMI, and uses a standard keyboard and",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "mouse. It can run a host of operating systems, such as Raspbian (Debian",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Linux), Android, Windows 10, IoT Core, etc.",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "The Raspberry Pi  is a series of low-cost, programmable computers that",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "include a set of GPIO, or 'General Purpose Input Output', pins that can",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "be used to connect and control external electronic devices, and to create",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Internet of Things (IoT) solutions.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry  Pi  was  developed  as  an  educational  computer.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "...",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "The  name",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi is derived from the fruit pie, raspberry pie. This is because many",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "companies in the computer neighbourhood where Raspberry Pi was based",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "used fruit names such as Apple and apricot as names for their companies",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "and products.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Pi is a small single board computer. By connecting peripherals",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "like Keyboard, mouse, display to the Raspberry Pi, it will act as a mini",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "personal computer.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi is popularly used for real time Image/Video Processing, IoT",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "based applications and Robotics applications.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi is slower than laptop or desktop but is still a computer which",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "can provide all the expected features or abilities, at a low power",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "consumption.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "We can install several Third-Party versions of OS like Ubuntu, Archlinux,",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "RISC OS, Windows 10 IOT Core, etc.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspbian OS is official Operating System available for free to use. This",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "OS is efficiently optimized to use with Raspberry Pi. Raspbian have GUI",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "which includes tools for Browsing, Python programming, office, games, etc.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "We should use SD card (minimum 8 GB recommended) to store the OS",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "(operating System).",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi is more than computer as it provides access to the on-chip",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "hardware i.e. GPIOs for developing an application. By accessing GPIO,",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "we can connect devices like LED, motors, sensors, etc and can control",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "them too.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "The CPU speed of Raspberry Pi varies from 700 MHz to 1.2 GHz. Also,",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "it has on-board SDRAM that ranges from 256 MB to 1 GB.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi also provides on-chip SPI, I2C, I2S and UART modules.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "There are different versions of raspberry pi available as listed below:",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi 1 Model A",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi 1 Model A+",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi 1 Model B",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi 1 Model B+",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi 2 Model B",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi 3 Model B",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi Zero",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Some Hardware Components shown above are mention below:",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "HDMI (High-Definition Multimedia Interface):",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "It is used for transmitting",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "uncompressed video or digital audio data to the Computer Monitor, Digital",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "TV, etc. Generally, this HDMI port helps to connect Raspberry Pi to the",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Digital television.",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "CSI Camera Interface:",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "CSI (Camera Serial Interface) interface provides",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "a  connection  in  between  Broadcom  Processor  and  Pi  camera.  This",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "interface provides electrical connections between two devices.",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "DSI Display Interface:",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "DSI (Display Serial Interface) Display Interface is",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "used for connecting LCD to the Raspberry Pi using 15-pin ribbon",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "cable. DSI provides fast High resolution display interface specifically used",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "for sending video data directly from GPU to the LCD display.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Composite Video and Audio  Output:",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "The composite Video and Audio",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "output port carries video along with audio signal to the Audio/Video systems.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Power LED:",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "It is a RED colored LED which is used for Power indication.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "This LED will turn ON when Power is connected to the Raspberry Pi. It is",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "connected to 5V directly and will start blinking whenever the supply voltage",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "drops below 4.63V.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "ACT PWR:",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "ACT PWR is Green LED which shows the SD card activity.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Getting Started with Raspberry Pi:",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "To get started with Raspberry Pi, we have to store required OS on SD card.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Now to store OS on SD card we need to install OS on SD card. If you",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "want to know how to install/store OS on SD card.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Here, we installed the Raspbian OS on SD card.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Now, we have an SD card with installed OS and Raspberry Pi Board.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Initially to use raspberry Pi we need computer monitor or Digital",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Display.",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "We can directly connect Raspberry Pi to the Digital Display using HDMI",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "cable.",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "But, if we have a computer monitor (VGA Display), then we need an HDMI to",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "VGA converter  along with  a VGA cable  for connecting  Raspberry Pi with",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "monitors. HDMI to VGA converter and VGA cable is shown below.",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Now, connect the Raspberry Pi to the Display/monitor and Power-On Raspberry",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Pi. We will get a Black command window asking for Login and Password as",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "shown below.",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Then, use the following login name and password",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "raspberrypi  Login:  pi",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Password: raspberry",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "This is the default user name and password. You can change the",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "password after the first login.",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "The above command window can be used to operate Raspberry Pi.",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "To get GUI environment on Raspberry Pi, use below command.",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "On display, there is a symbol of raspberry to the top-left corner of display. After",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "clicking on it, we will get menu as shown below",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "Then, click on change password option shown below:",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "RASPBERRY",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "PI",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "INTERFACES",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Serial:",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "The serial interface on Raspberry Pi has receive (Rx) and transmit",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "(Tx) pins for communication with serial peripherals.",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "SPI:",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Serial Peripheral Interface (SPI) is a synchronous serial data protocol",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "used for communicating with one or more peripheral devices.",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "I2C:",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "The  I2C  interface  pins  on  Raspberry  Pi  allow  you  to  connect",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "hardware modules. I2C interface allows synchronous data transfer with just",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "two pins - SDA (data line) and SCL (clock line).",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi Example:",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Interfacing LED and switch with Raspberry Pi:",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "How can IoT Applications use Raspberry Pi?",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "With  an  in-built  quadcore  processor,  Raspberry  Pi  can  serve  as  the  \u201cInternet",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Gateway\u201d for IoT devices. Powered by a cloud network, Pi acts as a web server for",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "uploading and transiting sensor data on IoT platforms.",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Newer Raspberry Pi models come with a standard 10/100 Mbit/s Ethernet port",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "that you can use to connect the device to the Internet. You simply need to plug",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "an Ethernet cable to the Raspberry Pi and connect it to your Internet router.",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "What are the disadvantages of Raspberry Pi?",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Not able to run Windows Operating system.",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Impractical as a Desktop Computer.",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Graphics Processor Missing.",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Missing eMMC Internal Storage. Since the raspberry pi doesn't have any",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "internal storage, it requires a micro-SD card to work as an internal storage.",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "INTERFACING",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "RASPBERRY",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "PI",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "WITH",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "BASIC",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "PERIPHERALS",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "The other two serial interfaces are the Serial Peripheral Interface (SPI) and",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Inter-Integrated-Circuit bus (I2C).",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "SPI on the Pi allows for up to two attached devices, while I2C potentially",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "allows for many devices, as long as their addresses don't conflict.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Pi Camera module is a camera which can be used to take pictures and high-",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "definition video.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi Board has CSI (Camera Serial Interface) interface to which",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "we can attach Pi Camera module directly. This Pi Camera module can",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "attach to the Raspberry Pi's CSI port using 15-pin ribbon cable.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Pi Camera Module Interface with Raspberry Pi using Python:",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Fig: Pi Camera Module (v1.3)",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Pi Camera module is a camera which can be used to take pictures and",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "high-definition video.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi Board has CSI (Camera Serial Interface) interface to which we",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "can attach Pi Camera module directly.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "This Pi Camera module can attach to the Raspberry Pi\u2019s CSI port using",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "15-pin ribbon cable.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Features of Pi Camera:",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Here, we have used Pi camera v1.3. Its features are",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "listed below,",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Resolution \u2013 5 MP",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "HD Video recording \u2013 1080p @30fps, 720p @60fps, 960p @45fps and so",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "on.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "It Can capture wide, still (motionless) images of resolution 2592x1944 pixels.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "CSI Interface enabled.",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "How to attach Pi Camera to Raspberry Pi?",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Now, we can use Pi Camera for capturing images and videos using Raspberry Pi.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Before using Pi Camera, we need to enable camera for its working.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "How to Enable Camera functionality on Raspberry Pi?",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "For enabling camera in Raspberry Pi, open raspberry pi configuration using",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "following command",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "\u201csudo raspi-config\u201d",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "then select Interfacing options in which select camera option to enable its",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "functionality.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "reboot Raspberry Pi.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Now we can access camera on Raspberry Pi.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Now we can capture images and videos using Pi Camera on Raspberry Pi.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Example:",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Capture images and save it to the specified directory.",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "We can capture images using Python. Here, we will write a Python program to",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "capture images using Pi Camera on Raspberry Pi.",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Here, we have used Pi Camera package(library) which provides different classes for",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi. Out of which we are mainly interested in Pi Camera class which is for",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "camera module.",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Python Program for Image Capture:",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Python Program for Video Recording:",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "IMPLEMENTATION",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "OF",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "WITH",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "RASPBERRY",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "PI",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Basic building blocks of an IoT Device",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Exemplary Device: Raspberry Pi Raspberry",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Pi interfaces",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Programming Raspberry Pi with Python",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Other IoT devices",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "What is an IoT Device?",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "A \"Thing\" in Internet of Things (IoT) can be any object that has a unique identifier",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "and which can send/receive data (including user data) over a network (e.g., smart",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "phone, smart TV, computer, refrigerator, car, etc.).",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "IoT devices are connected to the Internet and send information about themselves or",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "about their surroundings (e.g. information sensed by the connected sensors) over a",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "network (to other devices or servers/storage) or allow actuation upon the physical",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "entities/environment around them remotely.",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "IoT Device Examples:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "A home automation device that allows remotely monitoring the status of",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "appliances and controlling the appliances.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "An industrial machine which sends information abouts its operation and",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "health monitoring data to a server.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "A car which sends information about its location to a cloud-based service.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "A wireless-enabled wearable device that measures data about a person",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "such as the number of steps walked and sends the data to a cloud- based",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "service.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Basic building blocks of an IoT Device:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Sensing:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Sensors can be either on-board the IoT device or attached to the",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "device.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Actuation:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "IoT devices can have various types of actuators attached that",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "allow taking actions upon the physical entities in the vicinity of the device.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Communication:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Communication  modules  are  responsible  for  sending",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "collected data to other devices or cloud-based servers/storage and receiving",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "data from other devices and commands from remote applications.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Analysis & Processing:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Analysis and processing modules are responsible",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "for making sense of the collected data.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Block diagram of an IoT Device:",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Exemplary Device: Raspberry Pi:",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi is a low-cost mini-computer with the physical size of a credit",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "card.",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi runs various flavors of Linux and can perform almost all tasks",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "that a normal desktop computer can do.",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi also allows interfacing sensors and actuators through the general",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "purpose I/O pins.",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Since Raspberry Pi runs Linux operating system, it supports Python",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "\u201cout of the box\".",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Raspberry Pi GPIO:",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "UNIT",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "\u2013   IV",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "TO",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "SOFTWARE",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "DEFINED",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "NETWORK",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "(SDN)",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Software-Defined Networking (SDN) is a networking architecture that",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "separates the control plane from the data plane and centralizes the network",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "controller.",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Software-based SDN controllers maintain a unified view of the network",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "and make configuration, management and provisioning simpler.",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "The  underlying  infrastructure  in  SDN  uses  simple  packet  forwarding",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "hardware as opposed to specialized hardware in conventional networks.",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Key elements of SDN:",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Network Controller:",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "With decoupled control and data planes and centralized",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "network  controller,  the  network  administrators  can  rapidly  configure  the",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "network.",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Programmable Open APIs:",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "SDN architecture supports programmable open",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "APIs  for  interface  between  the  SDN  application  and  control  layers",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "(Northbound interface).",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Standard  Communication  Interface  (OpenFlow):",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "SDN  architecture",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "uses  a  standard  communication  interface  between  the  control  and",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "infrastructure layers (Southbound interface). OpenFlow, which is defined",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "by the Open Networking Foundation (ONF) is the broadly accepted SDN",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "protocol for the Southbound interface.",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "SDN",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "FOR",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Software-Defined  Networking  (SDN)  is  networking  architecture  that",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "separates the control plane from the data plane and centralizes the network",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "controller.",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Software-based SDN controllers maintain a unified view of the network.",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "The  underlying  infrastructure  in  SDN  uses  simple  packet  forwarding",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "hardware as opposed to specialized hardware in conventional networks.",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Fig: SDN Architecture",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Key elements of SDN:",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Centralized Network Controller:",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "With decoupled control and data planes",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "and centralized network controller, the network administrators can rapidly",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "configure the network.",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Programmable Open APIs:",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "SDN architecture supports programmable open",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "APIs  for  interface  between  the  SDN  application  and  control  layers",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "(Northbound interface).",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Standard  Communication  Interface  (OpenFlow):",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "SDN  architecture",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "uses  a  standard  communication  interface  between  the  control  and",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "infrastructure layers (Southbound interface). OpenFlow, which is defined",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "by the Open Networking Foundation (ONF) is the broadly accepted SDN",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "protocol for the Southbound interface.",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "UNIT",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "\u2013   V",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "CLOUD",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "COMPUTING",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Cloud Computing:",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "The Internet of Things (IoT) involves the internet-connected devices we use to",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "perform  the  processes  and  services  that  support  our  way  of  life.  Another",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "component set to help IoT succeed is cloud computing, which acts as a sort of",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "front end. Cloud computing is an increasingly popular service that offers several",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "advantages to IOT, and is based on the concept of allowing users to perform",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "normal computing tasks using services delivered entirely over the internet. A",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "worker may need to finish a major project that must be submitted to a manager,",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "but perhaps they encounter problems with memory or space constraints on their",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "computing device. Memory and space  constraints can be  minimized if an",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "application is instead hosted on the internet. The worker can  use  a  cloud",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "computing service to finish their work because the data is managed remotely by a",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "server.",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Another example: you have a problem with your mobile device and you need to",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "reformat it or reinstall the operating system. You can use Google Photos to upload",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "your photos to internet based storage. After the reformat or reinstall, you can then",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "either move the photos back to you device or you can view the photos on your",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "device from the internet when you want.",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Concept:",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "In truth, cloud computing and IoT are tightly coupled. The growth of IoT and the",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "rapid development of associated technologies create a widespread connection of",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "things. This has lead to the production of large amounts of data, which needs to be",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "stored, processed and accessed.",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Cloud computing as a paradigm for big data storage and analytics. While IoT is",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "exciting on its own, the real innovation will come from combining it with cloud",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "computing. The combination of cloud computing and IoT will enable  new",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "monitoring services and powerful processing of sensory data streams. For example,",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "sensory data can be uploaded and stored with cloud computing, later to be used",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "intelligently for smart monitoring and actuation with other",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "smart devices. Ultimately, the goal is to be able to transform data to insight and",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "drive productive, cost-effective action from those insights. The cloud effectively",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "serves as the brain to improved decision-making and optimized internet-based",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "interactions. However, when IoT meets cloud, new challenges arise.",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "There is an urgent need for novel network architectures that seamlessly integrate",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "them. The critical concerns during integration are quality of service (QoS) and",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "quality of experience (QoE), as well as data security, privacy and reliability. The",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "virtual infrastructure for practical mobile computing and interfacing includes",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "integrating  applications,  storage  devices,  monitoring  devices,  visualization",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "platforms, analytics tools and client delivery. Cloud computing offers a practical",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "utility-based model that will enable businesses and users to access applications",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "on demand anytime and from anywhere.",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "Characteristics:",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "First, the cloud computing of IoT is an on-demand self service, meaning its",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "there",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "when you need it. Cloud computing is a web-based service that can be accessed",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "without any special assistance or permission from other people; however, you need",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "at minimum some sort of internet access.",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Second, the cloud computing of IoT involves broad network access, meaning it",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "offers several connectivity options. Cloud computing resources can be accessed",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "through a wide variety of internet-connected devices such as tablets, mobile devices",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "and laptops. This level of convenience means users can access those resources in a",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "wide variety of manners, even from older devices. Again, though, this emphasizes",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "the need for network access points.",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Third, cloud computing allows for resource pooling, meaning information can be",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "shared with those who know where and how (have permission) to access",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "resource,  anytime  and  anywhere.  This  lends  to  broader  collaboration  or  closer",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "connections with other users. From an IoT perspective, just as we can easily assign",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "an IP address to every \"thing\" on the planet, we can share the \"address\" of the cloud-",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "based protected and stored information with others and pool resources.",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Fourth, cloud computing features rapid elasticity, meaning users can readily scale",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "the service to their needs. You can easily and quickly edit your software setup,",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "add or remove users, increase storage space, etc. This characteristic will further",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "empower IoT by providing elastic computing power, storage and networking.",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Finally, the cloud computing of IoT is a measured service, meaning you get what",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "you  pay  for.  Providers  can  easily  measure usage  statistics  such  as  storage,",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "processing, bandwidth and active user accounts inside your cloud instance. This",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "pay per use (PPU) model means your costs scale with your usage. In IoT terms,",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "it's comparable to the ever-growing network of physical objects that feature an IP",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "address for internet connectivity, and the  communication that occurs between",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "these objects and other internet-enabled",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "devices and systems; just like your cloud service, the service rates for that IoT",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "infrastructure may also scale with use.",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Service and Deployment Service",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "models:",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Service delivery in cloud computing comprises three different service models:",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "software as a service (SaaS), platform as a service (PaaS), and infrastructure as a",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "service (IaaS).",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Software as a service (SaaS) provides applications to the cloud \u2018s end user that",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "are mainly accessed via a web portal or service-oriented architecture-based",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "web",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "service technology. These services can be seen as ASP (application service",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "provider)",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "on the application layer. Usually, a specific company that uses the service would",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "run, maintain and give support so that it can be reliably used over a long period",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "of time.",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Platform as a service (PaaS) consists of the actual environment for developing",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "and provisioning cloud applications. The main users of this layer are developers",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "that want to develop and run a cloud application for a particular purpose. A",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "proprietary language was supported and provided by the platform  (a set of",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "important basic services) to ease communication, monitoring, billing and other",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "aspects such as startup as well as to ensure an application \u2018s scalability and",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "flexibility.  Limitations  regarding  the  programming  languages  supported,  the",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "programming  model,  the  ability  to  access  resources,  and  the  long-term",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "persistence are possible disadvantages.",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Infrastructure as a service (IaaS) provides the necessary hardware and software upon",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "which  a  customer  can  build  a  customized  computing  environment.  Computing",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "resources,  data  storage  resources  and  the  communications  channel  are  linked",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "together with these essential IT resources to ensure the stability of applications being",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "used on the cloud. Those stack models can be referred to as the medium for IoT,",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "being used and conveyed by the users in different methods for the greatest chance of",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "interoperability. This includes connecting cars, wearables, TVs, smartphones, fitness",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "equipment, robots,",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "ATMs,",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "vending",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "machines",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "as",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "well",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "as",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "vertical",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "applications,",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "security and professional services, and analytics platforms that come with them.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Deployment models:",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Deployment in cloud  computing  comprises four deployment  models: private",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "cloud, public cloud, community cloud and hybrid cloud.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "A private cloud has infrastructure that\u2019s provisioned for exclusive use by a single",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "organization comprising multiple consumers such as business units. It may be",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "owned,  managed  and  operated  by  the  organization,  a  third  party  or  some",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "combination of them, and it may exist on or off premises.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "A public cloud is created for open use by the general public. Public cloud sells",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "services to anyone on the internet. (Amazon Web Services is an example of a",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "large public cloud provider.) This model is suitable for business requirements",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "that require management of load spikes and the applications used by the business,",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "activities that would otherwise require greater investment in infrastructure for the",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "business. As such, public cloud also helps reduce capital expenditure and bring",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "down operational IT costs.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "A community cloud is managed and used by a particular group or organizations",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "that have shared interests, such as specific security requirements or a common",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "mission.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Finally, a hybrid cloud combines two or more distinct private, community or",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "public cloud infrastructures such that they remain unique entities but are bound",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "together  by  standardized  or  proprietary  technology  that  enables  data  and",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "application portability. Normally, information that\u2019s not critical is outsourced to",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "the public cloud, while business-critical services and data are kept within the",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "control of the organization.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Infrastructure-as-a-Service (IaaS) IoT/Clouds",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": ": These services provide the",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "means for accessing sensors and actuator in the cloud. The associated",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "business model involves the IoT/Cloud provide to act either",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "as data or",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "sensor provider. IaaS services for IoT provide access control to resources as",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "a prerequisite for the offering of related pay-as-you-go services.",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Platform-as-a-Service  (PaaS)  IoT/Clouds",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": ":  This  is  the  most  widespread",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "model for IoT/cloud services, given that it is the model provided by all",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "public IoT/cloud infrastructures outlined above. As already illustrate most",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "public IoT clouds come with a range of tools and related environments for",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "applications development and deployment in a cloud environment. A main",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "characteristic of PaaS IoT services is that they provide access to data, not",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "to hardware. This is a clear differentiator comparing to IaaS.",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Software-as-a-Service  (SaaS)  IoT/Clouds",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": ": SaaS  IoT  services  are the",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "ones  enabling  their  uses  to  access  complete  IoT-based  software",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "applications through the cloud, on-demand and in a pay-as-you-go fashion.",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "As soon as sensors and IoT devices are not visible, SaaS IoT applications",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "resemble very much conventional cloud-based SaaS applications. There",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "are however cases where the IoT dimension is strong and evident, such as",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "applications involving selection of sensors and combination of data from",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "the  selected  sensors  in  an  integrated  application. Several of these",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "applications are commonly called Sensing- as-a-Service, given that they",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "provide on-demand access to the services of multiple sensors. Note that",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "SaaS IoT applications are typically built over a PaaS infrastructure and",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "enable utility based business models involving IoT software and services.",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "IN",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "SMART",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "HOME",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "AND",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "SMART",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "CITY",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "APPLICATION",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Implementing IoT system in home and city leads them to become as smart home and",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "smart city. Smart home or smart city make life quite easier and smarter.",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "A smart home system can be something that makes our life quite easy. Starting",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "from energy management where the power controls system in the AC appliances",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "where  we  use  the  thermostat,  all  this  is  managed  to  cut  down  the  power",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "consumption that's taking place. A door management system, security",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "management system, water management system are the part of this as well. Still,",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "these are vital things that stand out in the smart home system.",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "The limitation of IoT in smart home application stops where our imagination stops.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Anything that we wish to automate or want to make our life easier can be a part",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "of smart home, a smartphone system as well.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "CONNECTED",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "VEHICLES",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Connectivity will be at the heart of next generation vehicles. Whether it will be",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "real-time  traffic  flow  information,  mapping,  infotainment  or  remote  access",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "emergency services, all these services will require connectivity.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Connected vehicle applications and services have distinctive features; they",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "need",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "to operate globally and usually have a very long \u2018device\u2019 lifetime, however",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "can be",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "integrated with local intelligent transport solutions and need to comply with local",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "security and emergency regulations.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Connected vehicle and smart transport applications have the potential to bring",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "substantial  benefits  to  consumers,  including  making  travel  safer,  reducing",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "congestion, and providing real time information to passengers.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "The GSMA is working with mobile operators and automotive OEMs to align the",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "industry and wider ecosystem around a common approach to security and network",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "connectivity to accelerate the growth of the Connected Vehicle market.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Governments can help encourage the development of the connected vehicle and",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "intelligent transport ecosystems by:",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Introducing incentives for innovation and investment.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Leading with light-touch regulation that will allow the market to scale while",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "building trust and confidence of consumers.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Promoting research and development programmers for connected and",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "autonomous vehicles.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Supporting",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "services,",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "applications",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "network industry-led",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "standards and interoperability.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "SMART",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "GRID",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Smart  Grid  is  conceptualized  as  a  combination  of  electrical  network  and",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "communication  infrastructure.  With  the  implementation  of  bidirectional",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "communication and power flows, a smart grid is capable of delivering electricity",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "more efficiently and reliably than the traditional power grid. A smart grid consists of",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "a power network  with  \u2018intelligent\u2019  entities that  can operate, communicate, and",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "interact autonomously, in order to efficiently deliver electricity to the customers.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "This heterogeneity in architecture of a smart grid motivates the use of advanced",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "technology for overcoming various technical challenges at different levels. Any",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "smart grid infrastructure should support real-time, two-way communication between",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "utilities and consumers, and should allow software systems at both the producer and",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "consumer ends to control and manage the power usage.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "We study the impact on smart grid from different perspectives: energy management",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "and pricing mechanism.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Cloud Architecture and Energy Management in Smart Grid:",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Future  smart  grids  are  expected  to  have  reliable,  efficient,  secured,  and  cost-",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "effective power management with the implementation of distributed architecture. To",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "focus on these requirements, we provide a comprehensive survey on different cloud",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "computing applications for the smart grid architecture, in three different areas \u2014",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "energy management, information management and security.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "INDUSTRIAL",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "IOT",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "The industrial internet of things (IIoT) refers to the extension and use of the",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "internet  of  things  (IoT)  in  industrial  sectors  and  applications.",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "...",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "The  IIoT",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "encompasses industrial applications, including robotics, medical devices, and",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "software-defined production processes.",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Prepared By:",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "RIYAZ",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "MOHAMMED",
+      "page": 78
+    }
+  ]
+}

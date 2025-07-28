@@ -1,0 +1,45 @@
+{
+  "title": "Introduction to GenAI",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction to GenAI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "What is GenAI?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Why Now?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Techniques",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "GANs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Transformers",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Conclusion",
+      "page": 4
+    }
+  ]
+}
